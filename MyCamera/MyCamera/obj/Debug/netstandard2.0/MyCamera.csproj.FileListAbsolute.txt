@@ -1,0 +1,12 @@
+C:\Users\James Mullarkey\source\repos\MyCamera\MyCamera\MyCamera\obj\Debug\netstandard2.0\MyCamera.csprojAssemblyReference.cache
+C:\Users\James Mullarkey\source\repos\MyCamera\MyCamera\MyCamera\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\James Mullarkey\source\repos\MyCamera\MyCamera\MyCamera\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\James Mullarkey\source\repos\MyCamera\MyCamera\MyCamera\obj\Debug\netstandard2.0\MyCamera.csproj.CoreCompileInputs.cache
+C:\Users\James Mullarkey\source\repos\MyCamera\MyCamera\MyCamera\obj\Debug\netstandard2.0\MyCamera.AssemblyInfoInputs.cache
+C:\Users\James Mullarkey\source\repos\MyCamera\MyCamera\MyCamera\obj\Debug\netstandard2.0\MyCamera.AssemblyInfo.cs
+C:\Users\James Mullarkey\source\repos\MyCamera\MyCamera\MyCamera\bin\Debug\netstandard2.0\MyCamera.deps.json
+C:\Users\James Mullarkey\source\repos\MyCamera\MyCamera\MyCamera\bin\Debug\netstandard2.0\MyCamera.dll
+C:\Users\James Mullarkey\source\repos\MyCamera\MyCamera\MyCamera\bin\Debug\netstandard2.0\MyCamera.pdb
+C:\Users\James Mullarkey\source\repos\MyCamera\MyCamera\MyCamera\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\James Mullarkey\source\repos\MyCamera\MyCamera\MyCamera\obj\Debug\netstandard2.0\MyCamera.dll
+C:\Users\James Mullarkey\source\repos\MyCamera\MyCamera\MyCamera\obj\Debug\netstandard2.0\MyCamera.pdb

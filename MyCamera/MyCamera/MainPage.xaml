@@ -2,13 +2,25 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:MyCamera"
-             x:Class="MyCamera.MainPage">
+             x:Class="MyCamera.MainPage">    <StackLayout>
 
-    <StackLayout>
-        <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" 
-           HorizontalOptions="Center"
-           VerticalOptions="CenterAndExpand" />
+        <!--<Button x:Name="TakePictureButton" Clicked="TakePictureButton_Clicked"
+                Text="Take Picture" />
+        <Button x:Name="UploadPictureButton" Clicked="UploadPictureButton_Clicked"
+                Text="Choose Picture" />
+
+        <Image x:Name="Image1" HeightRequest="240" />-->
+
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+
+            <Image x:Name="PhotoImage" />
+            <Button x:Name="CameraButton" Text="Take Photo" Grid.Row="1" />
+        </Grid>
+
     </StackLayout>
 
 </ContentPage>
